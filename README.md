@@ -1,16 +1,16 @@
 # Project Structure
 
 mean-blog/
-├── models/              # Mongoose schemas (User, Post)
-├── controllers/         # Business logic
-├── routes/              # API endpoints
-├── middleware/          # Authentication middleware
-├── public/              # Static frontend files
-├── config/              # Configuration files
-├── server.js            # Express server entry point
-├── package.json         # Node.js dependencies
-├── .env                 # Environment variables
-└── .gitignore          # Git ignore rules
+├── models/              
+├── controllers/         
+├── routes/              
+├── middleware/          
+├── public/              
+├── config/              
+├── server.js            
+├── package.json         
+├── .env                 
+└── .gitignore          
 
 ## Prerequisites
 
