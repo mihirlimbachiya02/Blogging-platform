@@ -1,14 +1,5 @@
-# MEAN Blog Platform
+# Project Structure
 
-A full-stack blogging application built with the **MEAN Stack**:
-- **M**ongoDB - NoSQL Database
-- **E**xpress.js - Backend Framework
-- **A**ngular - Frontend Framework (Modern Browser API)
-- **N**ode.js - JavaScript Runtime
-
-## Project Structure
-
-```
 mean-blog/
 ├── models/              # Mongoose schemas (User, Post)
 ├── controllers/         # Business logic
@@ -20,7 +11,6 @@ mean-blog/
 ├── package.json         # Node.js dependencies
 ├── .env                 # Environment variables
 └── .gitignore          # Git ignore rules
-```
 
 ## Prerequisites
 
