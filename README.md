@@ -1,6 +1,8 @@
 # Project Structure
 
+
 mean-blog/
+
 ├── models/              
 ├── controllers/         
 ├── routes/              
